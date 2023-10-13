@@ -6,24 +6,22 @@
 
 This is a simple Resume Builder Webpage .
 
-Technologies used :-
+### Tech Stack:-
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JAVASCRIPT
+- JAVASCRIPT
 
-Steps to use :-
+**Project is live [Here](https://imhr1306.github.io/CodeAlpha_Task_3/)**
 
-Project is live [Here](https://imhr1306.github.io/CodeAlpha_Task_3/)
+**or**
 
-or
+### Download or clone the repository
 
-Download or clone the repository
+**git clone : [Click Here](https://github.com/imhr1306/CodeAlpha_Task_3.git)**
 
-git clone : [Click Here](https://github.com/imhr1306/CodeAlpha_Task_3.git)
+### Go to the directory
 
-Go to the directory
-
-Run the index.html file
+**Run the index.html file**
